@@ -1,0 +1,7 @@
+module HolaMundo;
+    initial
+    begin
+        $display("Hola mundo");
+        $finish;
+    end
+endmodule
