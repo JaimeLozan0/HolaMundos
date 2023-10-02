@@ -1,0 +1,3 @@
+// Hello world in AngelScriptvoid main() { 
+   print("Hello world\n"); 
+}

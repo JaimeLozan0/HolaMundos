@@ -1,0 +1,4 @@
+// Hello world in Action Code Script (scripting language for the Hexen/Doom game engine)#include "zcommon.acs"script 1 ENTER
+{
+    print(s:"Hola Mundo ");
+}
