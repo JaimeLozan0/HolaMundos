@@ -1,0 +1,3 @@
+# Hello world in AWKBEGIN {
+  print "Hello World!"
+}
